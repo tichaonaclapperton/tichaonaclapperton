@@ -1,6 +1,6 @@
 ## Hi there <img src="images/Waving.gif" width="60" alt="hello">
 
-<img src="images/tich.jpg">
+<img src="images/tich.jpg" height="600" width="900">
 
 I'm Tichaona Clapperton Musasa, I'm a front-end developer with a strong passion for creating intuitive, responsive user interfaces with experience in HTML, CSS, still adding JavaScript and modern frameworks such as Tailwind and Bootstrap For now I'm focusing on building seamless and engaging user experiences. I'm also eager to expand my skills into back-end development to gain a more complete understanding of full-stack applications and contribute more holistically to the development team.
 
